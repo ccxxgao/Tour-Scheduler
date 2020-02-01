@@ -1,2 +1,2 @@
 # Tour-Scheduler
-Algorithm used to schedule tours based on guide availability
+Algorithm to schedule tours based on tour guide availability.
