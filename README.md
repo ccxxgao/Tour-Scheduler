@@ -2,7 +2,7 @@
 Program to schedule tours based on tour guide availability.
 
 ## Usage
-This program was created to automate tour scheduling for the Head Engineering Guides for the Yale Admissions Office. Using the availibilites and day preferences of the tour guides, this algorithm assigns guides to tours with even distribution.
+This program was created to automate tour scheduling to assist current and future Head Engineering Guides. Using the availibilites and day preferences of the tour guides, the algorithm assigns guides to tours with even distribution.
 
 ### Input
 Follow the prompts:
