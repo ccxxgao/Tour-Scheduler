@@ -1,5 +1,5 @@
 # Tour-Scheduler
-Program to schedule tours based on tour guide availability.
+Algorithm to schedule tours based on tour guide availability.
 
 ## Usage
 This program was created to automate tour scheduling to assist current and future Head Engineering Guides. Using the availibilites and day preferences of the tour guides, the algorithm assigns guides to tours with even distribution.
